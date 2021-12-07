@@ -1,0 +1,154 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.logo{
+    height:100%;
+    padding-bottom:10px;
+}
+.brand-logo{
+    height:100%;
+}
+.BasicDetailsContainer{
+    margin:10px;
+    padding:5px;
+    background-color:#2DBB85;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:white;
+}
+
+.nav-wrapper {
+    background-color: #353F02 !important;
+    font-size: 14px;
+    font-weight: bold;
+    
+  }
+.browser-default{
+    background-color:#2DBB85;
+    color:#C6D1CC;
+}
+.DailyIntakeContainer{
+    margin:10px;
+    padding:5px;
+    background-color:#EFEFEF;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:white;
+}
+.StatsContainer{
+    margin:10px;
+    padding:5px;
+    background-color:#EFEFEF;
+    color:black;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+
+
+
+.form-inline {  
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+  }
+
+  .form-inline label {
+    margin: 5px 10px 5px 0;
+  }
+
+  .form-inline input {
+    vertical-align: middle;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+
+  .button-section {
+    margin: 3%;
+  }
+  .button {
+    padding: 10px 20px;
+    background-color: dodgerblue;
+    border: 1px solid #ddd;
+    color: white;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: royalblue;
+  }
+
+  .remove {
+    background-color: rgb(192, 53, 53);
+  }
+  .remove:hover {
+    background-color: rgb(187, 43, 43);
+  }
+  
+  .daily{
+      background-color:white !important;
+      color:black;
+  }
+
+  .nutrients{
+      display:grid;
+      grid-template-columns:40% 60%;
+      padding:10px;
+      margin:10px;
+  }
+  .Info{
+      display:flex;
+      justify-content: center;
+      width:100%;
+      
+  }
+  .infopara{
+      width:50%;
+      font-size:1.3em;
+      box-shadow: 10px 10px;
+      background-color:rgb(240, 233, 190);
+      border-radius:10px;
+      padding:10px;
+      margin:10px;
+  }
+  #quote{
+      font-size:1.5em;
+      font-family: 'Cedarville Cursive', cursive;
+  }

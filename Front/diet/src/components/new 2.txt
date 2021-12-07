@@ -1,0 +1,58 @@
+>Vegetables
+"Ladyfinger":
+Tomato 
+Onion 
+Potato 
+Turnip 
+Turmeric 
+Sweet Potato 
+Spring Onion 
+Spinach 
+Snake Gourd
+Pumpkin 
+Garlic 
+Ginger 
+Fenugreek 
+Green Chilli
+Green Beans
+Radish 
+Jackfruit
+Mushroom 
+Maize 
+Peas 
+Cauliflower
+Cabbage
+Carrot 
+Capsicum 
+Brinjal 
+Bitter Gourd
+Beetroot
+Broccoli 
+Colocasia Root
+>Food Grains
+Rice 
+Wheat 
+Maize 
+Maida
+Barley 
+Sago
+Sorghum
+Semolina 
+Oat 
+Chickpeas 
+Lentil 
+Black gram 
+Millet 
+Pinto Beans
+Sugar
+Soya Beans
+>Meat and Dairy
+Goat Meat
+Chicken
+Fishes
+Eggs
+Pork
+Cow Milk
+Buffalo Milk
+Cheese
+Ghee
